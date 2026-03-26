@@ -1,4 +1,6 @@
 streamlit
 pandas
 openpyxl
-numpy
+xlsxwriter
+matplotlib
+reportlab==4.2.2
